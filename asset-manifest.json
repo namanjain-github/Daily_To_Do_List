@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/namanjain-github/React-in-github-demo/static/css/main.c6194168.chunk.css",
+    "main.js": "/namanjain-github/React-in-github-demo/static/js/main.72d7e93b.chunk.js",
+    "main.js.map": "/namanjain-github/React-in-github-demo/static/js/main.72d7e93b.chunk.js.map",
+    "runtime-main.js": "/namanjain-github/React-in-github-demo/static/js/runtime-main.8ce323d1.js",
+    "runtime-main.js.map": "/namanjain-github/React-in-github-demo/static/js/runtime-main.8ce323d1.js.map",
+    "static/js/2.03b3a3f1.chunk.js": "/namanjain-github/React-in-github-demo/static/js/2.03b3a3f1.chunk.js",
+    "static/js/2.03b3a3f1.chunk.js.map": "/namanjain-github/React-in-github-demo/static/js/2.03b3a3f1.chunk.js.map",
+    "index.html": "/namanjain-github/React-in-github-demo/index.html",
+    "precache-manifest.fd61c0d9a643544dd58477398250ca97.js": "/namanjain-github/React-in-github-demo/precache-manifest.fd61c0d9a643544dd58477398250ca97.js",
+    "service-worker.js": "/namanjain-github/React-in-github-demo/service-worker.js",
+    "static/css/main.c6194168.chunk.css.map": "/namanjain-github/React-in-github-demo/static/css/main.c6194168.chunk.css.map",
+    "static/js/2.03b3a3f1.chunk.js.LICENSE.txt": "/namanjain-github/React-in-github-demo/static/js/2.03b3a3f1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/namanjain-github/React-in-github-demo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ce323d1.js",
+    "static/js/2.03b3a3f1.chunk.js",
+    "static/css/main.c6194168.chunk.css",
+    "static/js/main.72d7e93b.chunk.js"
+  ]
+}
